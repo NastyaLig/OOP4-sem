@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ArrayOfDisciplineForSerialize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DisciplineForSerialize>
+    <Lector>
+      <fullname>Пацей</fullname>
+      <department>ИСИТ</department>
+      <auditory>324-1</auditory>
+    </Lector>
+    <Discipline>
+      <disciplineName>ООП</disciplineName>
+      <semestr>1 семестр</semestr>
+      <cours>2 курс</cours>
+      <speciality>ПОИБМС</speciality>
+      <numberOfLectures>12</numberOfLectures>
+      <numberOfLabratoryExercises>16</numberOfLabratoryExercises>
+      <typeOfControl>Экзамен</typeOfControl>
+    </Discipline>
+  </DisciplineForSerialize>
+  <DisciplineForSerialize>
+    <Lector>
+      <fullname>ритчвп</fullname>
+      <department>исит</department>
+      <auditory>103-1</auditory>
+    </Lector>
+    <Discipline>
+      <disciplineName>дизайн</disciplineName>
+      <semestr>2 семестр</semestr>
+      <cours>3 курс</cours>
+      <speciality>ПОИБМС</speciality>
+      <numberOfLectures>15</numberOfLectures>
+      <numberOfLabratoryExercises>5</numberOfLabratoryExercises>
+      <typeOfControl>Экзамен</typeOfControl>
+    </Discipline>
+  </DisciplineForSerialize>
+</ArrayOfDisciplineForSerialize>
